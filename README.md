@@ -15,7 +15,9 @@ I am fully self taught and am currently a Senior in high school.
 Golang, Python, Bash, C/C++, HTML+JS+CSS
 ### Technologies
 - Vue.js
-- Fiber
+- Fiber  
+
+
 ![Top Languages](https://ghstats.dev/api/langs?username=killallchickens&theme=catppuccin)
 ## Stats
 
