@@ -21,4 +21,6 @@ I am fully self taught and am currently a Senior in high school.
 - Fiber
 
 ## Stats
+<details><summary><b>GitHub Stats</b></summary>
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=KillAllChickens&theme=catppuccin)
+</details>
