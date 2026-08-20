@@ -16,12 +16,13 @@ Golang, Python, Bash, C/C++, HTML+JS+CSS
 ### Technologies
 - Vue.js
 - Fiber
-
+![Top Languages](https://ghstats.dev/api/langs?username=killallchickens&theme=catppuccin)
 ## Stats
-<details><summary><b>GitHub Stats</b></summary>
+
+<details><summary><b>Profile Stats</b></summary>
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=KillAllChickens&theme=catppuccin)
 
-![Top Languages](https://ghstats.dev/api/langs?username=killallchickens&theme=catppuccin)
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=killallchickens&theme=catppuccin&days=30&width=320&height=80)
 
 </details>
