@@ -25,4 +25,6 @@ I am fully self taught and am currently a Senior in high school.
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=KillAllChickens&theme=catppuccin)
 
+![Top Languages](https://ghstats.dev/api/langs?username=killallchickens&theme=catppuccin)
+
 </details>
