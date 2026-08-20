@@ -12,10 +12,7 @@ I am fully self taught and am currently a Senior in high school.
 
 ## Languages & Technologies
 ### Languages:
-- Golang
-- Python
-- C/C++
-- HTML+JS+CSS
+Golang, Python, Bash, C/C++, HTML+JS+CSS
 ### Technologies
 - Vue.js
 - Fiber
