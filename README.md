@@ -1,6 +1,6 @@
 # Vance Perry
-Hey, I'm Vance.
-A young Software Engineer from Illinois.
+Hey, I'm Vance.  
+I am a young Software Engineer from Illinois.  
 I am fully self taught and am currently a Senior in high school.
 
 ## Projects
